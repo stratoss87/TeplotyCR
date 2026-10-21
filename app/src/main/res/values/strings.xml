@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teploty ČR</string>
+    <string name="widget_description">Barevná mapa aktuálních teplot v ČR. Klepnutím otevřete celou stránku AMUT.</string>
+</resources>
